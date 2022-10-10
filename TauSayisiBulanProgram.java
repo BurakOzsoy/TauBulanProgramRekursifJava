@@ -1,6 +1,6 @@
 /*
 Tau bir sayının, pozitif tam bölenlerinin sayısına tam bölünebilen sayılara denir. Örneğin 8 sayısının bölenleri 1,2,4 ve 8 dir. Yani 4 böleni var. 
-Yani 4 sayısı 8 sayısını tam böleceğinden, 8 sayısı bir Tau sayısıdır.
+4 sayısı 8 sayısını tam böleceğinden, 8 sayısı bir Tau sayısıdır.
 */
 
 package tausayisibulanprogram;

@@ -7,10 +7,6 @@ package tausayisibulanprogram;
 
 import java.util.Scanner;
 
-/**
- *
- * @author BuRKi_1903
- */
 public class TauSayisiBulanProgram {
     
      static int sayi2 = 0; //Burada bölen sayılarını tutacağımız global bir değişken oluşturduk.
